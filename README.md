@@ -1,4 +1,4 @@
-# Famiy secret recipes
+# JZHU's Famiy secret recipes
 
 Set of recipes as given by my grandma.
 
